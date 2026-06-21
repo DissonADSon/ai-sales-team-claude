@@ -27,3 +27,17 @@ venv/
 *.swp
 *.swo
 .DS_Store
+# --- media/ + midia pesada (reorg 2026-06-18) ---
+media/
+broll_*/
+brolls_*/
+renders/
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.wav
+*.mp3
+*.jpg
+*.jpeg
+*.zip
